@@ -1,8 +1,8 @@
-## React : change State using setState
+# React : change State using setState
 - changing state (boolean) from true to false & visa versa
 - display text showing the status either true or false
 
-# Main Files
+## Main Files
 - conditional-rendering-practice\src\index.js
 - conditional-rendering-practice\src\App.js
 - conditional-rendering-practice\src\Child.js
@@ -12,7 +12,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
