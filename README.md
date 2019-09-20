@@ -1,4 +1,4 @@
-# React : change State using setState
+# React JS  : change State using setState
 - changing state (boolean) from true to false & visa versa
 - display text showing the status either true or false
 
